@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Miami
 tags: example-tag
 level: 0
-
+meetup group: OWASP-Miami-Chapter
 region: United States
 
 
@@ -15,4 +15,6 @@ region: United States
 
 Everyone is welcome to join us at our chapter meetings.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+Upcoming Meeting: 
+
+{% include chapter_events.html group=page.meetup-group %} 
