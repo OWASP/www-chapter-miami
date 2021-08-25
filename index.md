@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Miami
 tags: Miami
-level: 0
+level: 3
 auto-migrated: 1
 region: United States
 meetup-group: OWASP-Miami-Chapter
