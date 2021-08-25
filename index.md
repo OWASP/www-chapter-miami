@@ -22,7 +22,6 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 
 ## Local News
 - Meeting Location will be virtual for the time being
-- Everyone is welcome to join us at our chapter meetings.
 
 ## Upcoming Meeting:
 
