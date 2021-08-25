@@ -3,8 +3,9 @@
 layout: col-sidebar
 title: OWASP Miami
 tags: Miami
-level: 3
+level: 0
 region: United States
+auto-migrated: 0
 meetup-group: OWASP-Miami-Chapter
 country: USA
 postal-code: 33165
