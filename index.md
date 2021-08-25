@@ -32,8 +32,7 @@ Replace the text above the commented area with your information in the format be
 ## Welcome
 OWASP Miami
 -----------
-
-Welcome to the Miami Chapter homepage.  This chapter is to serve the local Miami cyber community with a place to learn, teach, mentor, and network with other cyber professionals and new comers.  This is a place for learning at all levels.
+Welcome to the Miami Chapter homepage.  This chapter is to serve the local Miami cyber community with a place to learn, teach, mentor, and network with other cyber professionals and new comers.  This is a place for growth, let's work together to make that happen.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
