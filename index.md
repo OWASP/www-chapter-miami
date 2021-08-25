@@ -2,13 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Miami
-tags: example-tag
+tags: Miami
 level: 0
 auto-migrated: 1
 region: United States
 meetup-group: OWASP-Miami-Chapter
 country: USA
-postal-code: 33101
+postal-code: 33165
 
 ---
 
@@ -30,7 +30,10 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+OWASP Miami
+-----------
+
+Welcome to the Miami Chapter homepage.  This chapter is to serve the local Miami cyber community with a place to learn, teach, mentor, and network with other cyber professionals and new comers.  This is a place for learning at all levels.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
