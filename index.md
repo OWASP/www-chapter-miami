@@ -7,7 +7,6 @@ level: 0
 region: North America
 auto-migrated: 0
 meetup-group: OWASP-Miami-Chapter
-country: USA
 postal-code: 33165
 
 ---
